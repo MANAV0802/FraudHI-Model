@@ -1,0 +1,11 @@
+Claim_Amount,Patient_Age,Patient_Gender,Provider_Type,Diagnosis_Code,Procedure_Code,Number_of_Procedures,Admission_Type,Discharge_Type,Length_of_Stay_Days,Service_Type,Deductible_Amount,CoPay_Amount,Number_of_Previous_Claims_Patient,Number_of_Previous_Claims_Provider,Provider_Patient_Distance_Miles,Claim_Submitted_Late
+8094.692876754775,63,Female,Hospital,Z00.00,99214,3,Urgent,Home,15,Inpatient,875.0092428170674,92.6928223025259,5,73,14.778274175648527,True
+4201.511157599662,13,Female,Pharmacy,I10,71045,4,Urgent,Transfer to another facility,10,Inpatient,847.6553503521504,196.33216549652442,12,91,23.97458241594417,False
+7820.794438894459,8,Male,Hospital,I10,99214,1,Urgent,Transfer to another facility,23,Inpatient,66.51673994147566,156.9919454006966,15,59,12.616178386714411,True
+2821.3594667602324,52,Male,Laboratory,I10,99214,1,Urgent,Transfer to another facility,10,Outpatient,306.4560706664599,336.02111817019477,8,9,27.111917147475967,False
+4884.941719441166,10,Male,Hospital,Z00.00,99213,4,Emergency,Transfer to another facility,17,Inpatient,598.2424075226177,93.5491258979897,9,8,0.24728354497853267,False
+797.9770188800194,0,Male,Clinic,A09,99214,4,Emergency,Transfer to another facility,9,Outpatient,745.4565683267266,486.14693003192417,6,29,44.27079981891717,False
+7039.799728868742,37,Female,Laboratory,I10,71045,2,Emergency,Transfer to another facility,21,Outpatient,308.0762313904242,346.29891740605063,1,84,38.259596578934236,True
+2428.169486907345,55,Male,Laboratory,Z00.00,99214,3,Elective,Home,21,Inpatient,204.78758083944092,368.47334983531425,19,82,3.419791262321298,False
+5876.192799831337,53,Male,Clinic,A09,99214,2,Urgent,Transfer to another facility,17,Inpatient,602.3333982921954,246.96798047818942,4,14,11.460330572438576,True
+7444.718342449231,70,Female,Clinic,I10,71045,1,Emergency,Home,21,Outpatient,556.1686774722219,317.9923911656176,17,0,31.38307362535857,True

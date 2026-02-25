@@ -1,0 +1,8 @@
+Model Type: <class 'sklearn.pipeline.Pipeline'>
+Sklearn Version: 1.6.1
+Feature names found:
+['Claim_Amount', 'Patient_Age', 'Patient_Gender', 'Provider_Type', 'Diagnosis_Code', 'Procedure_Code', 'Number_of_Procedures', 'Admission_Type', 'Discharge_Type', 'Length_of_Stay_Days', 'Service_Type', 'Deductible_Amount', 'CoPay_Amount', 'Number_of_Previous_Claims_Patient', 'Number_of_Previous_Claims_Provider', 'Provider_Patient_Distance_Miles', 'Claim_Submitted_Late']
+Number of features: 17
+Pipeline steps:
+  - preprocessor: <class 'sklearn.compose._column_transformer.ColumnTransformer'>
+  - model: <class 'sklearn.ensemble._gb.GradientBoostingClassifier'>
